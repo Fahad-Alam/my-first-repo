@@ -28,9 +28,25 @@ section{
 }
 .half-width{
     width: 50%;
+    margin-top: 50px;
 }
 .half-width img{
+    width: 38%;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.lara-half-width{
     width: 50%;
+}
+.lara-half-width img{
+    width: 85%;
+    margin-top: 50px;
+}
+.snake-half-width{
+    width: 50%;
+}
+.snake-half-width img{
+    width: 85%;
 }
 .link-button{
     text-decoration: none;
