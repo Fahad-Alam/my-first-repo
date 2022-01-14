@@ -1,0 +1,45 @@
+.top-banner{
+    text-align: center;
+}
+.yellow{
+    color: gold;
+}
+.black{
+    color: black;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 25px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.flexible-container{
+    display: flex;
+}
+section{
+    margin-bottom: 150px;
+    margin-top: 150px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 50%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(gold,silver);
+    padding: 10px 30px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+footer p{
+    text-align: center;
+}
